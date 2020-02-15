@@ -1,0 +1,6 @@
+﻿  SnakerGame_Main.cpp
+d:\web\c++\vs2017workplace\ai_snaker\ai_snaker\snakergame_main.cpp(94): warning C4101: “j”: 未引用的局部变量
+d:\web\c++\vs2017workplace\ai_snaker\ai_snaker\snakergame_main.cpp(94): warning C4101: “i”: 未引用的局部变量
+d:\web\c++\vs2017workplace\ai_snaker\ai_snaker\snakergame_main.cpp(293): warning C4551: 缺少参数列表的函数调用
+d:\web\c++\vs2017workplace\ai_snaker\ai_snaker\snakergame_main.cpp(340): warning C4551: 缺少参数列表的函数调用
+  AI_Snaker.vcxproj -> D:\WEB\C++\vs2017workplace\AI_Snaker\Debug\AI_Snaker.exe
