@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\web\c++\vs2017workplace\smartpoint\smart_design\smart_design\leaktester.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\web\c++\vs2017workplace\smartpoint\smart_design\smart_design\leaktester.h(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\web\c++\vs2017workplace\smartpoint\smart_design\smart_design\leaktester.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\web\c++\vs2017workplace\smartpoint\smart_design\smart_design\leaktester.h(87): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  Smart_Design.vcxproj -> D:\WEB\C++\vs2017workplace\SmartPoint\Smart_Design\Debug\Smart_Design.exe
