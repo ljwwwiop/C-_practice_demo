@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\web\c++\vs2017workplace\project1\project1\test.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+Virtual_test.obj : error LNK2005: _main 已经在 test.obj 中定义
+D:\WEB\C++\vs2017workplace\Project1\Debug\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
