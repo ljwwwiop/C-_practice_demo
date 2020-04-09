@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\web\c++\vs2017workplace\singletonpattern\singletonpattern\singletonmain.h(7): error C2084: 函数“Singleton::~Singleton(void)”已有主体
+  d:\web\c++\vs2017workplace\singletonpattern\singletonpattern\singleton.h(11): note: 参见“{dtor}”的前一个定义
