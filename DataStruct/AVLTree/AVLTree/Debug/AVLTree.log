@@ -1,0 +1,16 @@
+﻿  AVLTree.cpp
+d:\web\c++\vs2017workplace\datastruct\avltree\avltree\avltree.h(234): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  d:\web\c++\vs2017workplace\datastruct\avltree\avltree\avltree.h(229): note: 编译 类 模板 成员函数 "bool AVLTree<int,int>::_IsBalanceTree(AVLTreeNode<K,V> *)" 时
+          with
+          [
+              K=int,
+              V=int
+          ]
+  d:\web\c++\vs2017workplace\datastruct\avltree\avltree\avltree.h(203): note: 参见对正在编译的函数 模板 实例化“bool AVLTree<int,int>::_IsBalanceTree(AVLTreeNode<K,V> *)”的引用
+          with
+          [
+              K=int,
+              V=int
+          ]
+  d:\web\c++\vs2017workplace\datastruct\avltree\avltree\avltree.cpp(6): note: 参见对正在编译的 类 模板 实例化 "AVLTree<int,int>" 的引用
+  AVLTree.vcxproj -> D:\WEB\C++\vs2017workplace\DataStruct\AVLTree\Debug\AVLTree.exe
