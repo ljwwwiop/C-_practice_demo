@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): warning C4005: “INFINITY”: 宏重定义
+  d:\web\c++\vs2017workplace\datastruct\criticalpath\criticalpath\adjlistdirnetwork.h(5): note: 参见“INFINITY”的前一个定义
+d:\web\c++\vs2017workplace\datastruct\criticalpath\criticalpath\adjlistdirnetwork.h(79): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\web\c++\vs2017workplace\datastruct\criticalpath\criticalpath\adjlistdirnetwork.h(96): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  CriticalPath.vcxproj -> D:\WEB\C++\vs2017workplace\DataStruct\CriticalPath\Debug\CriticalPath.exe
