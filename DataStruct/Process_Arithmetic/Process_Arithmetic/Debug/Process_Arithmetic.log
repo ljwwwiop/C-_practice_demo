@@ -1,0 +1,10 @@
+﻿  Banker_Alg.cpp
+d:\web\c++\vs2017workplace\datastruct\process_arithmetic\process_arithmetic\banker_alg.cpp(102): warning C4101: “p”: 未引用的局部变量
+d:\web\c++\vs2017workplace\datastruct\process_arithmetic\process_arithmetic\banker_alg.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  d:\web\c++\vs2017workplace\datastruct\process_arithmetic\process_arithmetic\banker_alg.cpp(69): note: 参见对正在编译的函数 模板 实例化“void Sort<Process::HPFS::Less>(std::vector<PCB *,std::allocator<_Ty>> &,Compare)”的引用
+          with
+          [
+              _Ty=PCB *,
+              Compare=Process::HPFS::Less
+          ]
+  Process_Arithmetic.vcxproj -> D:\WEB\C++\vs2017workplace\DataStruct\Process_Arithmetic\Debug\Process_Arithmetic.exe
