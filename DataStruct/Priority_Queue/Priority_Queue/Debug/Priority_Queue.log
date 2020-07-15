@@ -1,0 +1,23 @@
+﻿  main.cpp
+d:\web\c++\vs2017workplace\datastruct\priority_queue\priority_queue\heap.h(85): warning C4018: “<”: 有符号/无符号不匹配
+  d:\web\c++\vs2017workplace\datastruct\priority_queue\priority_queue\heap.h(82): note: 编译 类 模板 成员函数 "void Heap<T,Compare>::AdJustDown(int)" 时
+          with
+          [
+              T=int,
+              Compare=Less<int>
+          ]
+  d:\web\c++\vs2017workplace\datastruct\priority_queue\priority_queue\heap.h(61): note: 参见对正在编译的函数 模板 实例化“void Heap<T,Compare>::AdJustDown(int)”的引用
+          with
+          [
+              T=int,
+              Compare=Less<int>
+          ]
+  d:\web\c++\vs2017workplace\datastruct\priority_queue\priority_queue\priority_queue.h(49): note: 参见对正在编译的 类 模板 实例化 "Heap<T,Compare>" 的引用
+          with
+          [
+              T=int,
+              Compare=Less<int>
+          ]
+  d:\web\c++\vs2017workplace\datastruct\priority_queue\priority_queue\main.cpp(6): note: 参见对正在编译的 类 模板 实例化 "Priority_Queue<int,Less<int>>" 的引用
+d:\web\c++\vs2017workplace\datastruct\priority_queue\priority_queue\heap.h(87): warning C4018: “<”: 有符号/无符号不匹配
+  Priority_Queue.vcxproj -> D:\WEB\C++\vs2017workplace\DataStruct\Priority_Queue\Debug\Priority_Queue.exe
