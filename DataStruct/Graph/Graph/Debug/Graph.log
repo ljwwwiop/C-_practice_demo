@@ -1,0 +1,32 @@
+﻿  main.cpp
+d:\web\c++\vs2017workplace\datastruct\graph\graph\graphmatrix.h(31): warning C4018: “<”: 有符号/无符号不匹配
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphmatrix.h(29): note: 编译 类 模板 成员函数 "GraphMatrix<std::string,int>::~GraphMatrix(void)" 时
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphmatrix.h(75): note: 参见对正在编译的函数 模板 实例化“GraphMatrix<std::string,int>::~GraphMatrix(void)”的引用
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphmatrix.h(75): note: 参见对正在编译的 类 模板 实例化 "GraphMatrix<std::string,int>" 的引用
+d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(100): warning C4018: “<”: 有符号/无符号不匹配
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(94): note: 编译 类 模板 成员函数 "void GraphLink<std::string,int>::DFS(const V &)" 时
+          with
+          [
+              V=std::string
+          ]
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(162): note: 参见对正在编译的函数 模板 实例化“void GraphLink<std::string,int>::DFS(const V &)”的引用
+          with
+          [
+              V=std::string
+          ]
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(152): note: 参见对正在编译的 类 模板 实例化 "GraphLink<std::string,int>" 的引用
+d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(39): warning C4018: “<”: 有符号/无符号不匹配
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(38): note: 编译 类 模板 成员函数 "GraphLink<std::string,int>::~GraphLink(void)" 时
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(152): note: 参见对正在编译的函数 模板 实例化“GraphLink<std::string,int>::~GraphLink(void)”的引用
+d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(125): warning C4018: “<”: 有符号/无符号不匹配
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(124): note: 编译 类 模板 成员函数 "size_t GraphLink<std::string,int>::GetIndex(const V &)" 时
+          with
+          [
+              V=std::string
+          ]
+  d:\web\c++\vs2017workplace\datastruct\graph\graph\graphlink.h(96): note: 参见对正在编译的函数 模板 实例化“size_t GraphLink<std::string,int>::GetIndex(const V &)”的引用
+          with
+          [
+              V=std::string
+          ]
+  Graph.vcxproj -> D:\WEB\C++\vs2017workplace\DataStruct\Graph\Debug\Graph.exe
