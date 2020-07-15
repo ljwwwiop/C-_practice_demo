@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\web\c++\vs2017workplace\datastruct\unionfind\unionfind\unionfind.h(40): warning C4018: “<”: 有符号/无符号不匹配
+  UnionFind.vcxproj -> D:\WEB\C++\vs2017workplace\DataStruct\UnionFind\Debug\UnionFind.exe
