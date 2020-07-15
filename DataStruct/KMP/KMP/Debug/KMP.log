@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\web\c++\vs2017workplace\datastruct\kmp\kmp\kmp.h(10): warning C4018: “<”: 有符号/无符号不匹配
+  KMP.vcxproj -> D:\WEB\C++\vs2017workplace\DataStruct\KMP\Debug\KMP.exe
